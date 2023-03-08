@@ -21,8 +21,8 @@
 - 참여인원: 5명
 
 # 3. 사용한 기술
-- 개발언어: Java
-- 개발 환경: jsp, html, css, javascript
+- 개발언어: Java, html, css, javascript
+- 개발 환경: jsp
 - 데이터베이스: MySQL
 
 # 4. ERD
